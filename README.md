@@ -1,6 +1,6 @@
-# Better WinDocs Sidebar (Binary Ninja)
+# BetterWinDocs
 
-A Binary Ninja sidebar widget that shows Microsoft Learn Win32 API documentation for imported WinAPI functions when you click them.
+**BetterWinDocs** is a Binary Ninja sidebar widget that shows Microsoft Learn Win32 API documentation for imported WinAPI functions when you click them.
 
 ## Features
 
